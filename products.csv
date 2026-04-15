@@ -1,0 +1,51 @@
+ProductID,ProductName,Category,Price,StockQuantity
+1001,Dining Table,Accessories,27251,38
+1002,Vacuum Cleaner,Electronics,54495,80
+1003,Sweater,Accessories,78875,64
+1004,External Hard Drive,Home Appliance,65379,32
+1005,Refrigerator,Clothing,9843,47
+1006,Vacuum Cleaner,Home Appliance,78697,13
+1007,Iron,Furniture,74231,39
+1008,Gaming Console,Accessories,70055,79
+1009,Bookshelf,Furniture,39721,5
+1010,Sofa,Accessories,6960,42
+1011,Cap,Electronics,24592,22
+1012,Monitor,Furniture,51027,91
+1013,Hair Dryer,Clothing,6870,55
+1014,Monitor,Electronics,27809,60
+1015,Laptop,Accessories,67545,58
+1016,Sunglasses,Clothing,58875,12
+1017,Sweater,Accessories,70305,42
+1018,Fitness Tracker,Electronics,55866,48
+1019,Smartwatch,Electronics,69347,64
+1020,Tablet,Electronics,32763,75
+1021,Smartphone,Home Appliance,78615,78
+1022,Dining Table,Electronics,46789,31
+1023,Microwave,Accessories,55574,98
+1024,Smartphone,Furniture,35818,90
+1025,Gaming Console,Furniture,41417,44
+1026,Refrigerator,Electronics,75665,38
+1027,Power Bank,Furniture,39583,42
+1028,Hair Dryer,Accessories,66037,47
+1029,Sweater,Furniture,59647,60
+1030,Earbuds,Electronics,2254,19
+1031,Microwave,Home Appliance,64594,92
+1032,Projector,Home Appliance,40296,41
+1033,Printer,Clothing,48698,23
+1034,Earbuds,Home Appliance,35935,60
+1035,Earbuds,Accessories,10772,9
+1036,Bed,Electronics,63916,35
+1037,Drone,Accessories,34406,9
+1038,Monitor,Furniture,4578,32
+1039,Blender,Clothing,14428,10
+1040,Wristwatch,Clothing,58256,72
+1041,Sofa,Electronics,9385,65
+1042,Vacuum Cleaner,Electronics,49903,31
+1043,Jacket,Clothing,14838,8
+1044,Cap,Furniture,30845,44
+1045,Camera,Electronics,61639,48
+1046,Security Camera,Electronics,76025,49
+1047,Drone,Clothing,49365,64
+1048,Scanner,Electronics,33808,17
+1049,Tripod,Clothing,59418,73
+1050,Bed,Home Appliance,2316,20
